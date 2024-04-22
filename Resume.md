@@ -1,26 +1,15 @@
  <center>
-     <h1>XXX</h1>
+     <h1>徐子恒</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             13245871161
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
-     </div>
+             giyfvv@163.com
+         
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
@@ -28,11 +17,10 @@
  - 男，2004 年出生
  - 求职意向：3d建模师
  - 工作经验：0 年
- - 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 南京机电职业技术学院，数字媒体技术专业，2022.9~2025.7
-- 通过了 CET4/6 英语等级考试
+- 通过了 CET4 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 竞赛经历
 
